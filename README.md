@@ -65,13 +65,6 @@ Mentorship Goals Needed To Finish
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
-## Portofolio
-
-- [ ] Your Website
-- [ ] Github Profile
-- [ ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
-- [ ] Resume
-
 ## Before Frameworks
 
 - [ ] Virtual DOM
@@ -91,35 +84,3 @@ Mentorship Goals Needed To Finish
 - [ ] BEM
 - [ ] Unit Testing
 - [ ] Debugging
-
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
-
-## Peoples Checklist
-
-- [ ] Ahmed Ezz
-- [ ] Ahmed Darwish
-- [ ] Amr Hendawy
-- [ ] Anas Qasem
-- [ ] Ayman Ali
-- [ ] Ayman Taha
-- [ ] Elsayed Gamal
-- [ ] Hagar Khalid
-- [ ] Hassan Ahmed Mustafa
-- [ ] Heba Gamal
-- [ ] Houssam Sabbabi
-- [ ] Karam Ayed
-- [ ] Lobna Nasser
-- [ ] Mahmoud Ali
-- [ ] Mohamed Ahmed Shawky
-- [ ] Mohamed Amr Barakat
-- [ ] Mohamed Mustafa Abugad
-- [ ] Mohamed Salah
-- [ ] Naglaa Saber
-- [ ] Nahla Khaireldeen
-- [ ] Nour Atef
-- [ ] Noura Nabil
-- [ ] Radwa Omar
-- [ ] Remon Lotfy
-- [ ] Salwa Sayed Younes
-- [ ] Sami Albakour
-- [ ] Shaimaa Ramadan
